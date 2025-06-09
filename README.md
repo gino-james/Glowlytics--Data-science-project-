@@ -1,0 +1,2 @@
+# EmissionSense-A-Machine-Learning-Pipeline-for-Carbon-Analysis
+EmissionSense is an AI-powered system designed to analyze, estimate, and forecast carbon emissions across supply chains using real-world data and machine learning. Built with sustainability and compliance in mind, it enables businesses to track Scope 1, 2, and 3 emissions—empowering them to reduce carbon footprints and meet ESG regulations.
